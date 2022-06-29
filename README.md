@@ -1,5 +1,7 @@
 ***Тестовое задание для фронта:***
 
+[DEMO](https://youtube.com/shorts/pn07pNT0tl4?feature=share)
+
 1. Поднять на EXPO стартовый проект.
 2. Подключить react-native-elements, formik и др.
 3. Создать дополнительную страницу
