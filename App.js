@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import FibonacciScreen from "./src/screens/FibonacciScreen";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
